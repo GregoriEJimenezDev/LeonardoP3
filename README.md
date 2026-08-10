@@ -151,6 +151,21 @@ Udemy) Learn HTML & CSS: How To Start Your Web Development Career para abrir el 
 
 **Simple AutoMapper setup in .NET 5: https://nwb.one/blog/set-up-automapper-dotnet-core
 
+**Code First Approach in ASP.NET Core MVC with EF: https://medium.com/c-sharp-programming/tutorial-code-first-approach-in-asp-net-core-mvc-with-ef-5baf5af696e9
+
+**Video - C# Essentials: Linq for Lists - Sorting, Filtering, and Aggregating Lists Easily: https://www.youtube.com/watch?v=yClSNQdVD7g
+
+**Video - Learn ASP.NET Core 7.0 MVC - CRUD Operations, EntityFramework Core: https://www.youtube.com/watch?v=pjThG_k9tpA
+
+**ASP.NET Core MVC CRUD Operations using .NET 8 and Entity Framework Core: https://www.youtube.com/watch?v=_uSw8sh7xKs
+
+**Reunión 3 (25-05-2026): https://itlaedudo.sharepoint.com/:v:/s/ProgramacinIII2026-C-2LeonardoEnriqueTavarezBetances-Seccin10/IQDibSuLnrsmRYwI882VHBP6ASWhxdR0mNpuLn5anqotaEU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Iqposp
+
+**Configure AutoMapper For ASP .NET Core API App:  https://thecodeblogger.com/2021/06/17/configure-automapper-for-asp-net-core-api-app/
+
+
+**Video - ASP NET Core Identity Basics Configure Identity and IdentityDbContext (Part 1): https://www.youtube.com/watch?v=LfNO0YE66tk
+
 **
 
 
